@@ -11,7 +11,7 @@ We will cover much of the material in from CS20, removing some of the material w
 - Sets and functions
 - Relations and countability
 - Graphs (directed and undirected)
-- Assymptotic notation
+- Asymptotic notation
 - Proof techniques (proof by contradiction, proof by induction, proof of universal statements, et cetera)
 
 ## CS121 Preparation
