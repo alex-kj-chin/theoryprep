@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Resources
-subtitle:
+title: Latex
+subtitle: tex it up
 ---
 
-## Latex
+## Tools 
 - [DeTexify](http://detexify.kirelabs.org/classify.html)

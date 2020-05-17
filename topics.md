@@ -12,7 +12,7 @@ We will cover much of the material in from CS20, removing some of the material w
 - Relations and countability
 - Graphs (directed and undirected)
 - Asymptotic notation
-- Proof techniques (proof by contradiction, proof by induction, proof of universal statements, et cetera)
+- Proof techniques (proof by contradiction, proof by induction, proof of universal statements, etc)
 
 ## CS121 Preparation
 - Reductions (we'll spend most of the time preparing this since it's integral to CS 121)

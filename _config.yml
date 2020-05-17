@@ -13,7 +13,8 @@ author:
 
 navbar-links:
   Topics List: "topics"
-  Resources: "resources"
+  Resources:
+    - Latex: "resources"
   Sign Up: "https://tinyurl.com/theoryprep"
 
 # --- Logo --- #
