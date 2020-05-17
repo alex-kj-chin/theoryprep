@@ -14,6 +14,7 @@ author:
 navbar-links:
   Topics List: "topics"
   Assignments: "assignments"
+  Zoom: "zoom"
   Resources:
     - Textbooks: "textbooks"
     - Latex: "latex"
