@@ -13,6 +13,7 @@ author:
 
 navbar-links:
   Topics List: "topics"
+  Assignments: "assignments"
   Resources:
     - Textbooks: "textbooks"
     - Latex: "latex"
