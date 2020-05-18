@@ -14,7 +14,7 @@ We believe that Computer Science should be accessible to everyone, and so Theory
 
 ## What does the time commitment look like?
 
-We estimate that TheoryPrep will take about 6 hours per week. Similarly to CS20, we will use a flipped classroom style, so there will be approximately 2 hours of reading/watching videos on your own time and 4 hours of working together on problems.
+We estimate that TheoryPrep will take about 6 hours per week. Similarly to CS20, we will use a flipped classroom style, so there will be approximately 2 hours of reading/watching videos on your own time and 4 hours of working together on problems. The program will run for 8 weeks.
 
 ## I’m interested--what should I do?
 
