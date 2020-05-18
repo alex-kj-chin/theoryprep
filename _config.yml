@@ -15,8 +15,8 @@ navbar-links:
   Topics List: "topics"
   Assignments: "assignments"
   Zoom: "zoom"
-  Videos: "videos"
   Resources:
+    - Videos: "videos"
     - Textbooks: "textbooks"
     - Latex: "latex"
   Sign Up: "https://tinyurl.com/theoryprep"
