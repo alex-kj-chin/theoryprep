@@ -13,6 +13,12 @@ author:
 
 navbar-links:
   Topics List: "topics"
+  Assignments: "assignments"
+  Zoom: "zoom"
+  Resources:
+    - Videos: "videos"
+    - Textbooks: "textbooks"
+    - Latex: "latex"
   Sign Up: "https://tinyurl.com/theoryprep"
 
 # --- Logo --- #

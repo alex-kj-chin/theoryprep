@@ -10,11 +10,11 @@ TheoryPrep is a completely free Harvard CS resource by students for students. A 
 
 ## Who is TheoryPrep for?
 
-We believe that Computer Science should be accessible to everyone, and so TheoryPrep is open to any students! That said, we think students who have less familiarity with proof-based math will get the most out of this course, since it primarily focuses on the fundamentals of discrete math and constructing proofs. TheoryPrep is designed for you if you’ve taken fewer than 2 proof based classes at Harvard. If you have questions about whether TheoryPrep is a good fit, just email us at [alexanderchin@college.harvard.edu](mailto:alexanderchin@college.harvard.edu) and we’d be happy to help you figure it out.
+We believe that Computer Science should be accessible to everyone, and so TheoryPrep is open to any students! That said, we think students who have less familiarity with proof-based math will get the most out of this course, since it primarily focuses on the fundamentals of discrete math and constructing proofs. TheoryPrep is designed for you if you’ve taken fewer than 2 proof based classes at Harvard. If you have questions about whether TheoryPrep is a good fit, just email us at [theoryprep@gmail.com](mailto:theoryprep@gmail.com) and we’d be happy to help you figure it out.
 
 ## What does the time commitment look like?
 
-We estimate that TheoryPrep will take about 6 hours per week. Similarly to CS20, we will use a flipped classroom style, so there will be approximately 2 hours of reading/watching videos on your own time and 4 hours of working together on problems.
+We estimate that TheoryPrep will take about 6 hours per week. Similarly to CS20, we will use a flipped classroom style, so there will be approximately 2 hours of reading/watching videos on your own time and 4 hours of working together on problems. The program will run for 8 weeks.
 
 ## I’m interested--what should I do?
 
