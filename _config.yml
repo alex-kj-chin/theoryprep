@@ -19,6 +19,7 @@ navbar-links:
     - Videos: "videos"
     - Textbooks: "textbooks"
     - Latex: "latex"
+  People: "people"
   Sign Up: "https://tinyurl.com/theoryprep"
 
 # --- Logo --- #

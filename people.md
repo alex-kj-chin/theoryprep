@@ -4,6 +4,11 @@ title: People
 subtitle:
 ---
 
-## Instructors
+## Staff
 - Alex Chin
+- Matthew Periera
+- Nenya Edjah
+- Richard Muratore
+- Richard Xu
 - Will Yao
+- Zuzanna Skoczylas
