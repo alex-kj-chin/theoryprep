@@ -9,4 +9,4 @@ Pronounced Lay-tech or Lah-tech, LaTeX is a markup language that makes it easier
 
 ## Tools
 - [Overleaf](http://www.overleaf.com) is used to write an compile latex online. It's great. Here's a [tutorial](https://www.youtube.com/watch?v=P5EWoPOnZTU).
-- [DeTexify](http://detexify.kirelabs.org/classify.html) is a neat tool that gives you the LaTex syntax for symbols that you draw.
+- [DeTexify](http://detexify.kirelabs.org/classify.html) is a neat tool that gives you the LaTeX syntax for symbols that you draw.
