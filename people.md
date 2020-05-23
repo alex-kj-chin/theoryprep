@@ -11,5 +11,6 @@ subtitle:
 - Nenya Edjah
 - Richard Muratore
 - Richard Xu
+- Will Hartog
 - Will Yao
 - Zuzanna Skoczylas
