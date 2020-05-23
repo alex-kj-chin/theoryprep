@@ -4,6 +4,12 @@ title: TheoryPrep
 subtitle: Preparing students for CS 121 and 124
 ---
 
+# Announcements
+
+(05/23) Thank you to everyone who signed up for TheoryPrep. We're super excited to begin on June 1st! Stay tuned in the upcoming week for more information about Problem Session scheduling and other logistics.
+
+___
+
 # Important Note
 
 We are asking that students **sign up for this course by 11:59 PM PT on Friday, May 22nd**. This is so that we can make sure we have sufficient staff for the course. Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScT5o_LteVsXtjGM6H6AigaynKcO9ZO1iX--UqDRsn7xx1igA/viewform?usp=sf_link) if you are taking the course. We understand that people's schedules are in flux due to COVID-19, so if you are unsure if you will be taking the course, feel free to email us at [theoryprep@gmail.com](mailto:theoryprep@gmail.com).
