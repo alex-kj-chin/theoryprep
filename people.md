@@ -6,6 +6,7 @@ subtitle:
 
 ## Staff
 - Alex Chin
+- Laura Pierson
 - Matthew Periera
 - Nenya Edjah
 - Richard Muratore
