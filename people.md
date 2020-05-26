@@ -7,6 +7,7 @@ subtitle:
 ## Staff
 - Alex Chin
 - Amy Gu
+- Conlan Olson
 - Dan Qu
 - Kevin Chen
 - Laura Pierson
