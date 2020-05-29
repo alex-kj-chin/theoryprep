@@ -4,4 +4,9 @@ title: Materials
 subtitle:
 ---
 
-The first materials will be posted May 29th at Noon PT.
+The materials are listed by week below. For each week, there are videos and readings. The videos are meant to cover the content at a high level with intuition, motivation, and  in-depth explanations of how to do more complex proofs. We recommend that you watch these first to get a sense of the material for the week. The readings cover the details, so they will often have more definitions and lots of smaller proofs. Certain sections are required reading for each week, but we've also listed optional sections in case you find yourself wanting to learn more! Problem sets will assume that you understand the material from both of these sources.
+
+### Readings for Week 1 (Finish by June 1st, or first problem session date)
+ - The videos cover [introduction to proofs](https://youtu.be/fMDiUny5cFc), [proofs of existence and nonexistence](https://youtu.be/JRrtW-K5j24), and [proving if and only if statements](https://youtu.be/sLtvZaw8LTo).
+ - From Math for CS: Read the introduction through section 1.3 (pages 3-9). Read sections 1.5 (skip 1.5.2--we'll cover contrapositive next week), 1.6, 1.8, and 1.9. Read Section 3.6 through 3.6.5 (it's okay if you don't understand the second part in 3.6.5 applying DeMorgan's Laws). Read Chapter 4 through 4.1.4. It's a lot of sections, so we compiled them together [here](/assets/Week_1_Readings.pdf).
+ - Optional Sections: Math for CS 1.4 (inference rules are unecessary for this course), Bulding Blocks Chapter 3 - 3.7 (these cover the proof strategies outlined in the videos for quantifier proofs if you would like to see them again), Math for CS 3.6.6 (more interesting facts about quantifiers), Math for CS 4.1.5 (more interesting facts about sets)

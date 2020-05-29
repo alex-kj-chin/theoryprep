@@ -16,7 +16,6 @@ navbar-links:
   Materials: "materials"
   Zoom: "zoom"
   Resources:
-    - Videos: "videos"
     - Textbooks: "textbooks"
     - Latex: "latex"
   People: "people"

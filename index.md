@@ -6,7 +6,7 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
-(05/23) Thank you to everyone who signed up for TheoryPrep. We're super excited to begin on June 1st! Stay tuned in the upcoming week for more information about Problem Session scheduling and other logistics.
+(05/29) The first weeks videos and readings (due June 1st) have been posted on [materials](/materials)!
 
 ___
 
@@ -17,8 +17,8 @@ TheoryPrep is a **completely free** (there is no cost for the course and no requ
 
 ## Can I Still Sign Up?
 
-While the official enrollment has closed, we are happy to work with you to see if you can still participate in the course. Please email us at theoryprep@gmail.com to discuss.
+While the official enrollment has closed, we are happy to work with you to see if you can still participate in the course. Please email us at [theoryprep@gmail.com](mailto:theoryprep@gmail.com) to discuss.
 
 ## I can't commit the full 6 hours per week. Can I audit the course?
 
-All readings, videos, and problem sets will be posted on the website, and we encourage you to complete the course at any speed that fits your schedule! Please reach out to us with any questions at theoryprep@gmail.com.
+All readings, videos, and problem sets will be posted on the website, and we encourage you to complete the course at any speed that fits your schedule! Please reach out to us with any questions at [theoryprep@gmail.com](mailto:theoryprep@gmail.com).
