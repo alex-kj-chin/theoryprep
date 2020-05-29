@@ -6,7 +6,7 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
-(05/29) The first weeks videos and readings (due June 1st) have been posted on [materials](/materials)!
+(05/29) The first weeks videos and readings (due June 1st) have been posted on [materials](https://alex-kj-chin.github.io/theoryprep/materials/)!
 
 ___
 
