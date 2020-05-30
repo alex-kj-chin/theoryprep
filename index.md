@@ -6,7 +6,9 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
-(05/29) The first weeks videos and readings (due June 1st) have been posted on [materials](/theoryprep/materials/)!
+(05/30) Problem Session assignments have been created! Keep an eye out on your email tonight for a message from your instructor. Problem Sessions start on Monday!
+
+(05/29) The first weeks videos and readings (due June 1st) have been posted under [materials](/theoryprep/materials/)!
 
 ___
 
