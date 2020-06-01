@@ -5,6 +5,7 @@ subtitle: Preparing students for CS 121 and 124
 ---
 
 # Announcements
+(06/01) The first Problem Sessions are today! If you've been assigned a Monday session, be sure to join the Zoom meeting that was sent via your Instructor at the appropriate time. We're so excited to begin!
 
 (05/31) The first problem set has been posted, also in [materials](/theoryprep/materials/). It is due on Gradescope by June 7th, 11:59 PM PT.
 
