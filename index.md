@@ -6,6 +6,8 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
+(05/31) The first problem set has been posted, also in [materials](/theoryprep/materials/). It is due on Gradescope by June 7th, 11:59 PM PT.
+
 (05/29) The first weeks videos and readings (due June 1st) have been posted on [materials](/theoryprep/materials/)!
 
 ___
