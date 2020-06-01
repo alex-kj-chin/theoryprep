@@ -2,6 +2,7 @@
 
 # Name of website
 title: TheoryPrep
+baseurl: "/theoryprep"
 
 # Short description of your site
 description: Math for CS; by students for studnets
