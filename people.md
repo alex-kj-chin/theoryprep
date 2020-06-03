@@ -9,6 +9,7 @@ subtitle:
 - Amy Gu
 - Conlan Olson
 - Dan Qu
+- Jeffrey He
 - Jonathan Chu
 - Kevin Chen
 - Laura Pierson
