@@ -27,4 +27,4 @@ The materials are listed by week below, and are summarized in calendar form abov
  - Optional Sections: Building Blocks 2.6, 3.12, 3.13, 11 (if you're intereseted in seeing other presentations of this material--beware that some of the examples may require content we have not covered).
 
 ### Problem Set for Week 2 (Finish by June 14th)
- - [pdf](/assets/Week_2_pset.pdf) and [tex](Week_2_tex.zip).
+ - [pdf](/assets/Week_2_pset.pdf) and [tex](/assets/Week_2_tex.zip).
