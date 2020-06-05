@@ -20,3 +20,8 @@ The materials are listed by week below, and are summarized in calendar form abov
 
 ### Problem Set for Week 1 (Finish by June 7th)
  - The first problem set is available as a [pdf](/assets/Week_1_pset.pdf) and [tex](/assets/Week_1_tex.zip). We're providing course support for Overleaf (although you're welcome to use any editor of your choice). In Overleaf, click the "New Project", "Upload Project", and then drag and drop the linked zip file. If you've never used LaTeX before, see our [resources on LaTeX](/theoryprep/latex).
+
+### Readings for Week 2 (Finish by first session of second week of problem sessions)
+ - The videos cover [the contrapositive](https://youtu.be/Eg9oMdJ00Ms), [proof by casework (or exhaustion)](https://youtu.be/X3yx5dhC6mU), and [induction](https://youtu.be/n1ZI_HqGAYc).
+ - From Math for CS: Read Sections 1.5.2, 1.7, and 5 (Section 5.3 may be a bit confusing since we have not discussed the well-ordering principle--feel free to review it after doing 1a on the problem set where we introduce the well-ordering principle). We compiled them again [here](/assets/Week_2_readings.pdf).
+ - Optional Sections: Building Blocks 2.6, 3.12, 3.13, 11 (if you're intereseted in seeing other presentations of this material--beware that some of the examples may require content we have not covered).
