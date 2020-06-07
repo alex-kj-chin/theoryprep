@@ -6,10 +6,58 @@ subtitle:
 
 ### Overview
 
-| Week       | Videos                                                                                                                              | Readings                                                     | Assignment                                                                     | Deadline                                                                         |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 6/1 - 6/6  | [Video 1](https://youtu.be/fMDiUny5cFc)<br> [Video 2](https://youtu.be/JRrtW-K5j24)<br> [Video 3](https://youtu.be/sLtvZaw8LTo)<br> | [Week 1 Readings](/assets/Week_1_Readings.pdf)<br> (due 6/1) | [Week 1 pdf](/assets/Week_1_pset.pdf)<br> [Week 1 tex](/assets/Week_1_tex.zip) | [6/7, 11:59PM EDT](https://www.gradescope.com/courses/135904/assignments/521658) |
-| 6/7 - 6/13 | Coming 6/4                                                                                                                          | Coming 6/4                                                   | Coming 6/4                                                                     | Coming 6/4                                                                       |
+<table class="table">
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Videos</th>
+      <th>Readings</th>
+      <th>Assignment</th>
+      <th>Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6/1 - 6/7</td>
+      <td>
+        <a href="https://youtu.be/fMDiUny5cFc">Video 1</a><br>
+        <a href="https://youtu.be/JRrtW-K5j24">Video 2</a><br>
+        <a href="https://youtu.be/sLtvZaw8LTo">Video 3</a><br>
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_1_Readings.pdf">Week 1 Readings</a><br>(due 6/1)
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_1_pset.pdf">Week 1 pdf</a><br>
+        <a href="/theoryprep/assets/Week_1_tex.zip">Week 1 tex</a>
+      </td>
+      <td><a href="https://www.gradescope.com/courses/135904/assignments/521658">6/7, 11:59PM EDT</a></td>
+    </tr>
+    <tr>
+      <td>6/8 - 6/14</td>
+      <td>
+        <a href="https://youtu.be/Eg9oMdJ00Ms">Video 1</a><br>
+        <a href="https://youtu.be/X3yx5dhC6mU">Video 2</a><br>
+        <a href="https://youtu.be/n1ZI_HqGAYc">Video 3</a><br>
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_2_Readings.pdf">Week 2 Readings</a><br>(due 6/8)
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_2_pset.pdf">Week 2 pdf</a><br>
+        <a href="/theoryprep/assets/Week_2_tex.zip">Week 2 tex</a>
+      </td>
+      <td><a href="https://www.gradescope.com/courses/135904/assignments/526256">6/13, 11:59PM EDT</a></td>
+    </tr>
+    <tr>
+      <td>6/15 - 6/21</td>
+      <td>Coming 6/11</td>
+      <td>Coming 6/11</td>
+      <td>Coming 6/11</td>
+      <td>Coming 6/11</td>
+    </tr>
+  </tbody>
+</table>
 
 The materials are listed by week below, and are summarized in calendar form above (the calendar omits optional sections, so see below for those). For each week, there are videos and readings. The videos are meant to cover the content at a high level with intuition, motivation, and  in-depth explanations of how to do more complex proofs. We recommend that you watch these first to get a sense of the material for the week. The readings cover the details, so they will often have more definitions and lots of smaller proofs. Certain sections are required reading for each week, but we've also listed optional sections in case you find yourself wanting to learn more! Problem sets will assume that you understand the material from both of these sources. We will publish the materials on the Thursday preceding each week.
 
@@ -23,7 +71,7 @@ The materials are listed by week below, and are summarized in calendar form abov
 
 ### Readings for Week 2 (Finish by first session of second week of problem sessions)
  - The videos cover [the contrapositive](https://youtu.be/Eg9oMdJ00Ms), [proof by casework (or exhaustion)](https://youtu.be/X3yx5dhC6mU), and [induction](https://youtu.be/n1ZI_HqGAYc).
- - From Math for CS: Read Sections 1.5.2, 1.7, and 5 (Section 5.3 may be a bit confusing since we have not discussed the well-ordering principle--feel free to review it after doing 1a on the problem set where we introduce the well-ordering principle). We compiled them again [here](/assets/Week_2_readings.pdf).
+ - From Math for CS: Read Sections 1.5.2, 1.7, and 5 (Section 5.3 may be a bit confusing since we have not discussed the well-ordering principle--feel free to review it after doing 1a on the problem set where we introduce the well-ordering principle). We compiled them again [here](/assets/Week_2_Readings.pdf).
  - Optional Sections: Building Blocks 2.6, 3.12, 3.13, 11 (if you're intereseted in seeing other presentations of this material--beware that some of the examples may require content we have not covered).
 
 ### Problem Set for Week 2 (Finish by June 14th)
