@@ -6,6 +6,8 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
+(06/06) We changed problem 4a on the Week 2 problem set. The files have been updated. Apologies for the inconvenience.
+
 (06/05) The second week's readings, vidoes, and problem sets are available on [materials](/theoryprep/materials/).
 
 (06/01) The first Problem Sessions are today! If you've been assigned a Monday session, be sure to join the Zoom meeting that was sent via your Instructor at the appropriate time. We're so excited to begin!
