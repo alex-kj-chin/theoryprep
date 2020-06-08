@@ -47,7 +47,7 @@ subtitle:
         <a href="/theoryprep/assets/Week_2_pset.pdf">Week 2 pdf</a><br>
         <a href="/theoryprep/assets/Week_2_tex.zip">Week 2 tex</a>
       </td>
-      <td><a href="https://www.gradescope.com/courses/135904/assignments/526256">6/13, 11:59PM EDT</a></td>
+      <td><a href="https://www.gradescope.com/courses/135904/assignments/526256">6/14, 11:59PM EDT</a></td>
     </tr>
     <tr>
       <td>6/15 - 6/21</td>
