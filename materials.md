@@ -51,10 +51,19 @@ subtitle:
     </tr>
     <tr>
       <td>6/15 - 6/21</td>
+      <td><a href="https://youtu.be/HK3zxS7uTek">Video 1</a><br>
+        <a href="https://youtu.be/arz0hnOmVzQ">Video 2</a><br></td>
+      <td><a href="/theoryprep/assets/Week_3_Readings.pdf">Week 3 Readings</a><br>(due 6/15)</td>
+      <td><a href="/theoryprep/assets/Week_3_pset.pdf">Week 3 pdf</a><br>
+        <a href="/theoryprep/assets/Week_3_tex.zip">Week 3 tex</a></td>
       <td>Coming 6/11</td>
-      <td>Coming 6/11</td>
-      <td>Coming 6/11</td>
-      <td>Coming 6/11</td>
+    </tr>
+    <tr>
+      <td>6/22 - 6/28</td>
+      <td>Coming 6/18</td>
+      <td>Coming 6/18</td>
+      <td>Coming 6/18</td>
+      <td>Coming 6/18</td>
     </tr>
   </tbody>
 </table>
