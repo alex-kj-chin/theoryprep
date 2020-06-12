@@ -76,3 +76,11 @@ The materials are listed by week below, and are summarized in calendar form abov
 
 ### Problem Set for Week 2 (Finish by June 14th)
  - [pdf](/theoryprep/assets/Week_2_pset.pdf) and [tex](/theoryprep/assets/Week_2_tex.zip).
+
+### Readings for Week 3
+ - The videos cover [defining infinite set size](https://youtu.be/HK3zxS7uTek) and [different sizes of infinity](https://youtu.be/arz0hnOmVzQ).
+ - The readings are [here](/theoryprep/assets/Week_3_Readings.pdf).
+
+### Problem Set for Week 3 (Finish by June 21st)
+ - [pdf](/theoryprep/assets/Week_3_pset.pdf) and [tex](/theoryprep/assets/Week_3_tex.zip).
+
