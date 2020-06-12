@@ -6,7 +6,7 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
-(06/11ish) We published the week 3 materials.
+(06/11ish) We published the week 3 [materials](/theoryprep/materials/).
 
 (06/06) We changed problem 4a on the Week 2 problem set. The files have been updated. Apologies for the inconvenience.
 
