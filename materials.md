@@ -29,7 +29,8 @@ subtitle:
       </td>
       <td>
         <a href="/theoryprep/assets/Week_1_pset.pdf">Week 1 pdf</a><br>
-        <a href="/theoryprep/assets/Week_1_tex.zip">Week 1 tex</a>
+        <a href="/theoryprep/assets/Week_1_tex.zip">Week 1 tex</a><br>
+        <a href="/theoryprep/assets/Week_1_Solutions.pdf">Week 1 Solutions</a>
       </td>
       <td><a href="https://www.gradescope.com/courses/135904/assignments/521658">6/7, 11:59PM EDT</a></td>
     </tr>
