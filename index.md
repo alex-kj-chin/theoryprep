@@ -6,6 +6,8 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
+(06/15) We've updated the Week 3 problem set to make designate some problems as "Additional," to be completed only if students have time.
+
 (06/11ish) We published the week 3 [materials](/theoryprep/materials/).
 
 (06/06) We changed problem 4a on the Week 2 problem set. The files have been updated. Apologies for the inconvenience.
