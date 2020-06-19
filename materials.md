@@ -57,7 +57,7 @@ subtitle:
       <td><a href="/theoryprep/assets/Week_3_Readings.pdf">Week 3 Readings</a><br>(due 6/15)</td>
       <td><a href="/theoryprep/assets/Week_3_pset.pdf">Week 3 pdf</a><br>
         <a href="/theoryprep/assets/Week_3_tex.zip">Week 3 tex</a></td>
-      <td>Coming 6/11</td>
+      <td><a href="https://www.gradescope.com/courses/135904/assignments/535466/submissions">6/21, 11:59PM EDT</a></td>
     </tr>
     <tr>
       <td>6/22 - 6/28</td>
@@ -98,4 +98,3 @@ The materials are listed by week below, and are summarized in calendar form abov
  - Videos on [undirected graphs](https://youtu.be/Y1GX5Ld8vlk) and [directed graphs](https://youtu.be/K9P54DQQVPk).
  - Readings are [here](/theoryprep/assets/Week_4_Readings.pdf).
  - Pset available as a [pdf](/theoryprep/assets/Week_4_pset.pdf) and [tex](/theoryprep/assets/Week_4_tex.zip).
-
