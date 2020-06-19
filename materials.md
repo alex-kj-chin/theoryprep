@@ -81,6 +81,9 @@ subtitle:
         <a href="/theoryprep/assets/Week_4_tex.zip">Week 4 tex</a>
       </td>
       <td>Coming 6/19</td>
+      <td>
+        <a href="https://www.gradescope.com/courses/135904/assignments/538311/submissions">6/28, 11:59PM EDT</a>
+      </td>
     </tr>
     <tr>
       <td>6/29 - 7/5</td>
