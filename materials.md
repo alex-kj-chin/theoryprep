@@ -94,3 +94,8 @@ The materials are listed by week below, and are summarized in calendar form abov
 ### Problem Set for Week 3 (Finish by June 21st)
  - [pdf](/theoryprep/assets/Week_3_pset.pdf) and [tex](/theoryprep/assets/Week_3_tex.zip).
 
+### Week 4 Materials
+ - Videos on [undirected graphs](https://youtu.be/Y1GX5Ld8vlk) and [directed graphs](https://youtu.be/K9P54DQQVPk).
+ - Readings are [here](/theoryprep/assets/Week_4_Readings.pdf).
+ - Pset available as a [pdf](/theoryprep/assets/Week_4_pset.pdf) and [tex](/theoryprep/assets/Week_4_tex.zip).
+
