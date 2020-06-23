@@ -47,6 +47,7 @@ subtitle:
       <td>
         <a href="/theoryprep/assets/Week_2_pset.pdf">Week 2 pdf</a><br>
         <a href="/theoryprep/assets/Week_2_tex.zip">Week 2 tex</a>
+        <a href="/theoryprep/assets/Week_2_Solutions.pdf">Week 2 Solutions</a>
       </td>
       <td><a href="https://www.gradescope.com/courses/135904/assignments/526256">6/14, 11:59PM EDT</a></td>
     </tr>
@@ -57,6 +58,7 @@ subtitle:
       <td><a href="/theoryprep/assets/Week_3_Readings.pdf">Week 3 Readings</a><br>(due 6/15)</td>
       <td><a href="/theoryprep/assets/Week_3_pset.pdf">Week 3 pdf</a><br>
         <a href="/theoryprep/assets/Week_3_tex.zip">Week 3 tex</a></td>
+        <a href="/theoryprep/assets/Week_3_Solutions.pdf">Week 3 Solutions</a>
       <td><a href="https://www.gradescope.com/courses/135904/assignments/535466/submissions">6/21, 11:59PM EDT</a></td>
     </tr>
     <tr>
