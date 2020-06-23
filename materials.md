@@ -30,7 +30,7 @@ subtitle:
       <td>
         <a href="/theoryprep/assets/Week_1_pset.pdf">Week 1 pdf</a><br>
         <a href="/theoryprep/assets/Week_1_tex.zip">Week 1 tex</a><br>
-        <a href="/theoryprep/assets/Week_1_Solutions.pdf">Week 1 Solutions</a>
+        <a href="/theoryprep/assets/Week_1_Solutions.pdf">Week 1 sol</a>
       </td>
       <td><a href="https://www.gradescope.com/courses/135904/assignments/521658">6/7, 11:59PM EDT</a></td>
     </tr>
@@ -53,20 +53,45 @@ subtitle:
     </tr>
     <tr>
       <td>6/15 - 6/21</td>
-      <td><a href="https://youtu.be/HK3zxS7uTek">Video 1</a><br>
-        <a href="https://youtu.be/arz0hnOmVzQ">Video 2</a><br></td>
-      <td><a href="/theoryprep/assets/Week_3_Readings.pdf">Week 3 Readings</a><br>(due 6/15)</td>
-      <td><a href="/theoryprep/assets/Week_3_pset.pdf">Week 3 pdf</a><br>
-        <a href="/theoryprep/assets/Week_3_tex.zip">Week 3 tex</a></td>
+      <td>
+        <a href="https://youtu.be/HK3zxS7uTek">Video 1</a><br>
+        <a href="https://youtu.be/arz0hnOmVzQ">Video 2</a><br>
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_3_Readings.pdf">Week 3 Readings</a><br>(due 6/15)
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_3_pset.pdf">Week 3 pdf</a><br>
+        <a href="/theoryprep/assets/Week_3_tex.zip">Week 3 tex</a>
         <a href="/theoryprep/assets/Week_3_Solutions.pdf">Week 3 Solutions</a>
-      <td><a href="https://www.gradescope.com/courses/135904/assignments/535466/submissions">6/21, 11:59PM EDT</a></td>
+      </td>
+      <td>
+        <a href="https://www.gradescope.com/courses/135904/assignments/535466/submissions">6/21, 11:59PM EDT</a>
+      </td>
     </tr>
     <tr>
       <td>6/22 - 6/28</td>
-      <td>Coming 6/18</td>
-      <td>Coming 6/18</td>
-      <td>Coming 6/18</td>
-      <td>Coming 6/18</td>
+      <td>
+        <a href="https://youtu.be/Y1GX5Ld8vlk">Video 1</a><br>
+        <a href="https://youtu.be/K9P54DQQVPk">Video 2</a><br>
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_4_Readings.pdf">Week 4 Readings</a><br>(due 6/22)
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_4_pset.pdf">Week 4 pdf</a><br>
+        <a href="/theoryprep/assets/Week_4_tex.zip">Week 4 tex</a>
+      </td>
+      <td>
+        <a href="https://www.gradescope.com/courses/135904/assignments/538311/submissions">6/28, 11:59PM EDT</a>
+      </td>
+    </tr>
+    <tr>
+      <td>6/29 - 7/5</td>
+      <td>Coming 6/25</td>
+      <td>Coming 6/25</td>
+      <td>Coming 6/25</td>
+      <td>Coming 6/25</td>
     </tr>
   </tbody>
 </table>
