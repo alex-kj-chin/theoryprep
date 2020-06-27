@@ -47,7 +47,7 @@ subtitle:
       <td>
         <a href="/theoryprep/assets/Week_2_pset.pdf">Week 2 pdf</a><br>
         <a href="/theoryprep/assets/Week_2_tex.zip">Week 2 tex</a><br>
-        <a href="/theoryprep/assets/Week_2_Solutions.pdf">Week 2 Solutions</a>
+        <a href="/theoryprep/assets/Week_2_Solutions.pdf">Week 2 sol</a>
       </td>
       <td><a href="https://www.gradescope.com/courses/135904/assignments/526256">6/14, 11:59PM EDT</a></td>
     </tr>
@@ -63,7 +63,7 @@ subtitle:
       <td>
         <a href="/theoryprep/assets/Week_3_pset.pdf">Week 3 pdf</a><br>
         <a href="/theoryprep/assets/Week_3_tex.zip">Week 3 tex</a><br>
-        <a href="/theoryprep/assets/Week_3_Solutions.pdf">Week 3 Solutions</a>
+        <a href="/theoryprep/assets/Week_3_Solutions.pdf">Week 3 sol</a>
       </td>
       <td>
         <a href="https://www.gradescope.com/courses/135904/assignments/535466/submissions">6/21, 11:59PM EDT</a>
@@ -88,10 +88,26 @@ subtitle:
     </tr>
     <tr>
       <td>6/29 - 7/5</td>
-      <td>Coming 6/25</td>
-      <td>Coming 6/25</td>
-      <td>Coming 6/25</td>
-      <td>Coming 6/25</td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=n6J7EQJ4puY">Video 1</a><br>
+        <a href="https://www.youtube.com/watch?v=RQ9D5ul-Sew">Video 2</a><br>
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_5_Readings.pdf">Week 5 Readings</a><br>(due 6/29)
+      </td>
+      <td>
+        Coming 6/26
+      </td>
+      <td>
+        Coming 6/26
+      </td>
+    </tr>
+    <tr>
+      <td>7/6 - 7/12</td>
+      <td>Coming 7/2</td>
+      <td>Coming 7/2</td>
+      <td>Coming 7/2</td>
+      <td>Coming 7/2</td>
     </tr>
   </tbody>
 </table>
