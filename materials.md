@@ -129,4 +129,4 @@ The materials are listed by week below, and are summarized in calendar form abov
 ### Week 5 Materials
  - Videos on [reading definitions](https://www.youtube.com/watch?v=n6J7EQJ4puY) and [reading proofs](https://www.youtube.com/watch?v=RQ9D5ul-Sew).
  - Readings are available [here](/theoryprep/assets/Week_5_Readings.pdf).
- - Pset will be up on 6/26.
+ - Pset availabel as a [pdf](/theoryprep/assets/Week_5_pset.pdf) and [tex](/theoryprep/assets/Week_5_tex.zip).
