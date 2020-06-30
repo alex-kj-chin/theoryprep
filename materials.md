@@ -96,11 +96,10 @@ subtitle:
         <a href="/theoryprep/assets/Week_5_Readings.pdf">Week 5 Readings</a><br>(due 6/29)
       </td>
       <td>
-        <a href="/theoryprep/assets/Week_5_pset.pdf">Week 5 pdf</a><br>
-        <a href="/theoryprep/assets/Week_5_tex.zip">Week 5 tex</a>
+        Coming 6/26
       </td>
       <td>
-        <a href="https://www.gradescope.com/courses/135904/assignments/544959/submissions">7/5, 11:59PM EDT</a>
+        Coming 6/26
       </td>
     </tr>
     <tr>
@@ -146,4 +145,5 @@ The materials are listed by week below, and are summarized in calendar form abov
 ### Week 5 Materials
  - Videos on [reading definitions](https://www.youtube.com/watch?v=n6J7EQJ4puY) and [reading proofs](https://www.youtube.com/watch?v=RQ9D5ul-Sew).
  - Readings are available [here](/theoryprep/assets/Week_5_Readings.pdf).
- - Pset available as a [pdf](/theoryprep/assets/Week_5_pset.pdf) and [tex](/theoryprep/assets/Week_5_tex.zip).
+ - Pset availabel as a [pdf](/theoryprep/assets/Week_5_pset.pdf) and [tex](/theoryprep/assets/Week_5_tex.zip).
+ - Reading with box deleted (see pset) [here](/theoryprep/assets/Week_5_Readings_unboxed.pdf).
