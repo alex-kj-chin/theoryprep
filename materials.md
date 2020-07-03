@@ -147,3 +147,9 @@ The materials are listed by week below, and are summarized in calendar form abov
  - Readings are available [here](/theoryprep/assets/Week_5_Readings.pdf).
  - Pset availabel as a [pdf](/theoryprep/assets/Week_5_pset.pdf) and [tex](/theoryprep/assets/Week_5_tex.zip).
  - Reading with box deleted (see pset) [here](/theoryprep/assets/Week_5_Readings_unboxed.pdf).
+
+### Week 6 Materials
+ - Reductions are a tricky topic, and we're covering multiple different types of reductions. All the core problem set questions will be on the material from the first video and first 12 pages of the readings, so please focus your time there first (you'll get more out of the course if you make sure you really understand that material rather than if you watch everything at a cursory level).
+ - Videos on [uncomputability and reductions](https://youtu.be/XoPoKyusUXk) and [polynomial time reductions](https://youtu.be/y9WWMTdhcDA).
+ - Readings are [here](/theoryprep/assets/Week_6_Readings.pdf).
+ - Pset will be up on 7/3.
