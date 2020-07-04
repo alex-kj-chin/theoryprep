@@ -6,6 +6,8 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
+(7/3) Week 6 pset up.
+
 (07/2ish) Week 6 videos and readings up.
 
 (06/26ish) Week 5 pset is up.
