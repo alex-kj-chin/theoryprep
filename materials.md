@@ -105,10 +105,26 @@ subtitle:
     </tr>
     <tr>
       <td>7/6 - 7/12</td>
-      <td>Coming 7/2</td>
-      <td>Coming 7/2</td>
-      <td>Coming 7/2</td>
-      <td>Coming 7/2</td>
+      <td>
+        <a href="https://youtu.be/XoPoKyusUXk">Video 1</a><br>
+        <a href="https://youtu.be/y9WWMTdhcDA">Video 2</a><br>
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_6_Readings.pdf">Week 6 Readings</a><br>(due 7/6)
+      </td>
+      <td>
+        Coming 7/3
+      </td>
+      <td>
+        Coming 7/3
+      </td>
+    </tr>
+    <tr>
+      <td>7/13 - 7/19</td>
+      <td>Coming 7/9</td>
+      <td>Coming 7/9</td>
+      <td>Coming 7/9</td>
+      <td>Coming 7/9</td>
     </tr>
   </tbody>
 </table>
