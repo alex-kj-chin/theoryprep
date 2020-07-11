@@ -171,3 +171,12 @@ The materials are listed by week below, and are summarized in calendar form abov
  - Videos on [uncomputability and reductions](https://youtu.be/XoPoKyusUXk) and [polynomial time reductions](https://youtu.be/y9WWMTdhcDA).
  - Readings are [here](/theoryprep/assets/Week_6_Readings.pdf).
  - Pset as a [pdf](/theoryprep/assets/Week_6_pset.pdf) and [tex](/theoryprep/assets/Week_6_tex.zip).
+
+### Week 7 Materials
+ - Videos on [asymptotics](https://www.youtube.com/watch?v=Hv8kbPBRM7s) and [recurrence relations](https://www.youtube.com/watch?v=AGn2dudKUi0).
+ - Readings are [here](/theoryprep/assets/Week_7_Readings.pdf).
+ - Pset available as a [pdf](/theoryprep/assets/Week_7_pset.pdf) and [tex](/theoryprep/assets/Week_7_tex.zip).
+ - Reading with deleted box (see pset) [here](/theoryprep/assets/Week_7_Readings_unboxed.pdf).
+
+
+
