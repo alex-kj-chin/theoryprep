@@ -122,10 +122,27 @@ subtitle:
     </tr>
     <tr>
       <td>7/13 - 7/19</td>
-      <td>Coming 7/9</td>
-      <td>Coming 7/9</td>
-      <td>Coming 7/9</td>
-      <td>Coming 7/9</td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=Hv8kbPBRM7s">Video 1</a><br>
+        <a href="https://www.youtube.com/watch?v=AGn2dudKUi0">Video 2</a><br>
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_7_Readings.pdf">Week 7 Readings</a><br>(due 7/13)
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_7_pset.pdf">Week 7 pdf</a><br>
+        <a href="/theoryprep/assets/Week_7_tex.zip">Week 7 tex</a>
+      </td>
+      <td>
+        <a href="https://www.gradescope.com/courses/135904/assignments/557169/submissions">7/19, 11:59PM EDT</a>
+      </td>
+    </tr>
+    <tr>
+      <td>7/20 - 7/26</td>
+      <td>Coming 7/16</td>
+      <td>Coming 7/16</td>
+      <td>Coming 7/16</td>
+      <td>Coming 7/16</td>
     </tr>
   </tbody>
 </table>
@@ -177,6 +194,3 @@ The materials are listed by week below, and are summarized in calendar form abov
  - Readings are [here](/theoryprep/assets/Week_7_Readings.pdf).
  - Pset available as a [pdf](/theoryprep/assets/Week_7_pset.pdf) and [tex](/theoryprep/assets/Week_7_tex.zip).
  - Reading with deleted box (see pset) [here](/theoryprep/assets/Week_7_Readings_unboxed.pdf).
-
-
-
