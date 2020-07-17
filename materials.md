@@ -194,3 +194,8 @@ The materials are listed by week below, and are summarized in calendar form abov
  - Readings are [here](/theoryprep/assets/Week_7_Readings.pdf).
  - Pset available as a [pdf](/theoryprep/assets/Week_7_pset.pdf) and [tex](/theoryprep/assets/Week_7_tex.zip).
  - Reading with deleted box (see pset) [here](/theoryprep/assets/Week_7_Readings_unboxed.pdf).
+
+### Week 8 Materials
+ - A longer video on [depth first search](https://youtu.be/8r_UdR1zOW8).
+ - Readings is [here](/theoryprep/assets/Week_8_Readings.pdf).
+

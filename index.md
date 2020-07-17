@@ -6,6 +6,8 @@ subtitle: Preparing students for CS 121 and 124
 
 # Announcements
 
+(7/16ish) Week 8 materials are up. Pset will be up tomorrow.
+
 (7/13) The week 7 pset was changed slightly. Please redownload to get the most recent version.
 
 (7/10ish) The week 7 materials are up.
