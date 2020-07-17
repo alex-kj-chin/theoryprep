@@ -139,10 +139,19 @@ subtitle:
     </tr>
     <tr>
       <td>7/20 - 7/26</td>
-      <td>Coming 7/16</td>
-      <td>Coming 7/16</td>
-      <td>Coming 7/16</td>
-      <td>Coming 7/16</td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=Hv8kbPBRM7s">Video 1</a><br>
+        <a href="https://www.youtube.com/watch?v=AGn2dudKUi0">Video 2</a><br>
+      </td>
+      <td>
+        <a href="/theoryprep/assets/Week_8_Readings.pdf">Week 8 Readings</a><br>(due 7/20)
+      </td>
+      <td>
+        Coming 7/18
+      </td>
+      <td>
+        Coming 7/18
+      </td>
     </tr>
   </tbody>
 </table>
@@ -198,4 +207,3 @@ The materials are listed by week below, and are summarized in calendar form abov
 ### Week 8 Materials
  - A longer video on [depth first search](https://youtu.be/8r_UdR1zOW8).
  - Readings is [here](/theoryprep/assets/Week_8_Readings.pdf).
-
