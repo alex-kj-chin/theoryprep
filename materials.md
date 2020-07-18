@@ -147,10 +147,11 @@ subtitle:
         <a href="/theoryprep/assets/Week_8_Readings.pdf">Week 8 Readings</a><br>(due 7/20)
       </td>
       <td>
-        Coming 7/18
+        <a href="/theoryprep/assets/Week_8_pset.pdf">Week 8 pdf</a><br>
+        <a href="/theoryprep/assets/Week_8_tex.zip">Week 8 tex</a>
       </td>
       <td>
-        Coming 7/18
+        <a href="https://www.gradescope.com/courses/135904/assignments/564058/submissions">7/26, 11:59PM EDT</a>
       </td>
     </tr>
   </tbody>
