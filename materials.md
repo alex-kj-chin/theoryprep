@@ -80,7 +80,8 @@ subtitle:
       </td>
       <td>
         <a href="/theoryprep/assets/Week_4_pset.pdf">Week 4 pdf</a><br>
-        <a href="/theoryprep/assets/Week_4_tex.zip">Week 4 tex</a>
+        <a href="/theoryprep/assets/Week_4_tex.zip">Week 4 tex</a><br>
+        <a href="/theoryprep/assets/Week_4_Solutions.pdf">Week 4 sol</a>
       </td>
       <td>
         <a href="https://www.gradescope.com/courses/135904/assignments/538311/submissions">6/28, 11:59PM EDT</a>
@@ -97,7 +98,8 @@ subtitle:
       </td>
       <td>
         <a href="/theoryprep/assets/Week_5_pset.pdf">Week 5 pdf</a><br>
-        <a href="/theoryprep/assets/Week_5_tex.zip">Week 5 tex</a>
+        <a href="/theoryprep/assets/Week_5_tex.zip">Week 5 tex</a><br>
+        <a href="/theoryprep/assets/Week_5_Solutions.pdf">Week 5 sol</a>
       </td>
       <td>
         <a href="https://www.gradescope.com/courses/135904/assignments/544959/submissions">7/5, 11:59PM EDT</a>
@@ -114,7 +116,8 @@ subtitle:
       </td>
       <td>
         <a href="/theoryprep/assets/Week_6_pset.pdf">Week 6 pdf</a><br>
-        <a href="/theoryprep/assets/Week_6_tex.zip">Week 6 tex</a>
+        <a href="/theoryprep/assets/Week_6_tex.zip">Week 6 tex</a><br>
+        <a href="/theoryprep/assets/Week_6_Solutions.pdf">Week 6 sol</a>
       </td>
       <td>
         <a href="https://www.gradescope.com/courses/135904/assignments/550428/submissions">7/12, 11:59PM EDT</a>
@@ -140,8 +143,7 @@ subtitle:
     <tr>
       <td>7/20 - 7/26</td>
       <td>
-        <a href="https://www.youtube.com/watch?v=Hv8kbPBRM7s">Video 1</a><br>
-        <a href="https://www.youtube.com/watch?v=AGn2dudKUi0">Video 2</a><br>
+        <a href="https://youtu.be/gh1862CCcHg">Video 1</a><br>
       </td>
       <td>
         <a href="/theoryprep/assets/Week_8_Readings.pdf">Week 8 Readings</a><br>(due 7/20)
