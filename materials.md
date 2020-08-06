@@ -134,7 +134,8 @@ subtitle:
       </td>
       <td>
         <a href="/theoryprep/assets/Week_7_pset.pdf">Week 7 pdf</a><br>
-        <a href="/theoryprep/assets/Week_7_tex.zip">Week 7 tex</a>
+        <a href="/theoryprep/assets/Week_7_tex.zip">Week 7 tex</a><br>
+        <a href="/theoryprep/assets/Week_7_Solutions.pdf">Week 7 sol</a>
       </td>
       <td>
         <a href="https://www.gradescope.com/courses/135904/assignments/557169/submissions">7/19, 11:59PM EDT</a>
@@ -150,7 +151,8 @@ subtitle:
       </td>
       <td>
         <a href="/theoryprep/assets/Week_8_pset.pdf">Week 8 pdf</a><br>
-        <a href="/theoryprep/assets/Week_8_tex.zip">Week 8 tex</a>
+        <a href="/theoryprep/assets/Week_8_tex.zip">Week 8 tex</a><br>
+        <a href="/theoryprep/assets/Week_8_Solutions.pdf">Week 8 sol</a>
       </td>
       <td>
         <a href="https://www.gradescope.com/courses/135904/assignments/564058/submissions">7/26, 11:59PM EDT</a>
